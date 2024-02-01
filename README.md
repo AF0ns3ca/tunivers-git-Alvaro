@@ -13,3 +13,7 @@ Se recomienda crear una organizacion que sea la propietaria del repositorio prin
 3. Click en Organizaciones (menu izquierdo)
 4. Click en Nueva Organizacion
 5. Elegir plan y llenar datos
+
+### Creacion de un fork
+
+Para crear un fork debes iniciar sesion en github y luego ingresar en la landing page del proyecto
